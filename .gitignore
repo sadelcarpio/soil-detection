@@ -1,2 +1,4 @@
-*data/**.png
-*data/**.jpg
+unlabeled_data/*.png
+unlabeled_data/*.jpg
+data/**/*.jpg
+.idea/
